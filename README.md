@@ -16,11 +16,13 @@ ML in Production - Don't just train, push your model to production!
         <td align="center"><b>📔&nbsp; Books</b></td>
         <td align="center"><b>⚙️&nbsp; Repos</b></td>
         <td align="center"><b>📰&nbsp; Blogs</b></td>
+        <td align="center">🆒 Projects</td>
     </tr>
     <tr>
-        <td align="center"><a href="https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/"></a>MLOps: Operationalizing Data Science</td>
-        <td align="center"><a href="https://github.com/Sillians/awesome-mlops-1">AwesomeMLOps</a></td>
+        <td align="center"><a href="https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/"></a>MLOps: Operationalizing Data Science</a></td>
+        <td align="center"><a href="https://github.com/Sillians/awesome-mlops-1">Awesome MLOps</a></td>
         <td align="center"><a href="https://madewithml.com/">Made With ML</a></td>
+        <td align="center"><a href="https://github.com/datarevenue-berlin/OpenMLOps/tree/master">Open MLOps</a></td>
     </tr>
 </table>
 
