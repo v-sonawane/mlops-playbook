@@ -1,6 +1,6 @@
 <div align="center">
 <h1>📑 MLOps Playbook</h1>
-Production ML · MLOps · Applied ML
+MLOps - Production ML - Real World Stuff
 </div>
 <br>
 <div align="center">
