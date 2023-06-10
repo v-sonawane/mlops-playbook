@@ -16,7 +16,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><b>📔&nbsp; Books</b></td>
         <td align="center"><b>⚙️&nbsp; Repos</b></td>
         <td align="center"><b>📰&nbsp; Blogs & Channels</b></td>
-        <td align="center">🆒&nbsp; Projects</td>
+        <td align="center">🆒&nbsp; Cool Projects</td>
     </tr>
     <tr>
         <td align="center"><a href="https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/">MLOps: Operationalizing Data Science</a></td>
@@ -34,7 +34,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href="https://www.oreilly.com/library/view/building-machine-learning/9781492045106/">Build ML Powerd Applications</a></td>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href="https://www.youtube.com/@MLOps">MLOps.Community</a></td>
-        <td align="center"><a href="https://metaflow.org/">metaflow</a></ td>
+        <td align="center"><a href="https://feast.dev/">Feast</a></ td>
     </tr>
         <tr>
         <td align="center"><a href=""></a></td>
