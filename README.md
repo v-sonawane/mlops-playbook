@@ -1,6 +1,6 @@
 <div align="center">
 <h1>📑 MLOps Playbook</h1>
-MLOps - Production ML - Real World Stuff
+ML in Production - Don't just train, push your model to production!
 </div>
 <br>
 <div align="center">
@@ -16,6 +16,11 @@ MLOps - Production ML - Real World Stuff
         <td align="center"><b>📔&nbsp; Books</b></td>
         <td align="center"><b>⚙️&nbsp; Repos</b></td>
         <td align="center"><b>📰&nbsp; Blogs</b></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/"></a>MLOps: Operationalizing Data Science</td>
+        <td align="center"><a href="https://github.com/Sillians/awesome-mlops-1">AwesomeMLOps</a></td>
+        <td align="center"><a href="https://madewithml.com/">Made With ML</a></td>
     </tr>
 </table>
 
