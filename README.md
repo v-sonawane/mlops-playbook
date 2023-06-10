@@ -31,16 +31,16 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a></td>
     </tr>
     <tr>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://www.oreilly.com/library/view/building-machine-learning/9781492045106/">Build ML Powerd Applications</a></td>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href="https://www.youtube.com/@MLOps">MLOps.Community</a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://metaflow.org/">metaflow</a></ td>
     </tr>
         <tr>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href="https://ml-ops.org/">ml-ops.org</a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://github.com/ivanpanshin/flask_gunicorn_nginx_docker/tree/master"></a>Flask+Gunicorn+Nginx</td>
     </tr>
 </table>
 
