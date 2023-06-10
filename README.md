@@ -22,7 +22,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href="https://www.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/">MLOps: Operationalizing Data Science</a></td>
         <td align="center"><a href="https://github.com/trojrobert/MLOps_roadmap_and_curriculum">MLOps Roadmap & Curriculum</a></td>
         <td align="center"><a href="https://all-things-machine-learning.gitbook.io/all-things-machine-learning/production-ml/props-to-mlops">Props to MLOps!</a></td>
-        <td align="center"><a href="https://www.tensorflow.org/tfx">Tensorflow Extended (tfx)</a></td>
+        <td align="center"><a href="https://mlops.toys/">mlops.toys</a></td>
     </tr>
      <tr>
         <td align="center"><a href="https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems?utm_medium=api&utm_source=author_widget">Designing ML Systems: An Iterative Process for Production-Ready Applications</a></td>
