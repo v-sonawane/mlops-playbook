@@ -15,7 +15,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
     <tr>
         <td align="center"><b>📔&nbsp; Books</b></td>
         <td align="center"><b>⚙️&nbsp; Repos</b></td>
-        <td align="center"><b>📰&nbsp; Blogs</b></td>
+        <td align="center"><b>📰&nbsp; Blogs & Channels</b></td>
         <td align="center">🆒 Projects</td>
     </tr>
     <tr>
@@ -28,6 +28,18 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href="https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems?utm_medium=api&utm_source=author_widget">Designing ML Systems: An Iterative Process for Production-Ready Applications</a></td>
         <td align="center"><a href="https://github.com/DataTalksClub/mlops-zoomcamp">MLOps Zoomcamp</a></td>
         <td align="center"><a href="https://neptune.ai/blog/mlops">neptune.ai</a></td>
+        <td align="center"><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://www.youtube.com/@MLOps">MLOps.Community</a></td>
+        <td align="center"><a href=""></a></td>
+    </tr>
+        <tr>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://ml-ops.org/">ml-ops.org</a></td>
         <td align="center"><a href=""></a></td>
     </tr>
 </table>
