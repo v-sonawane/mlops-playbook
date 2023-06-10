@@ -26,9 +26,9 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
     </tr>
      <tr>
         <td align="center"><a href="https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems?utm_medium=api&utm_source=author_widget">Designing ML Systems: An Iterative Process for Production-Ready Applications</a></td>
-        <td align="center"><a href="https://github.com/Sillians/awesome-mlops-1">Awesome MLOps</a></td>
-        <td align="center"><a href="https://madewithml.com/">Made With ML</a></td>
-        <td align="center"><a href="https://github.com/datarevenue-berlin/OpenMLOps/tree/master">Open MLOps</a></td>
+        <td align="center"><a href="https://github.com/DataTalksClub/mlops-zoomcamp">MLOps Zoomcamp</a></td>
+        <td align="center"><a href="https://neptune.ai/blog/mlops">neptune.ai</a></td>
+        <td align="center"><a href=""></a></td>
     </tr>
 </table>
 
