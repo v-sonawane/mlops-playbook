@@ -36,11 +36,23 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href="https://www.youtube.com/@MLOps">MLOps.Community</a></td>
         <td align="center"><a href="https://feast.dev/">Feast</a></ td>
     </tr>
-        <tr>
+    <tr>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href="https://ml-ops.org/">ml-ops.org</a></td>
         <td align="center"><a href="https://github.com/ivanpanshin/flask_gunicorn_nginx_docker/tree/master">Flask+Gunicorn+Nginx</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://github.com/karpathy/nanoGPT">nanoGPT</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://github.com/togethercomputer/RedPajama-Data">RedPajama: Data</a></td>
     </tr>
 </table>
 
