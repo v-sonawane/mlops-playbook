@@ -32,7 +32,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
     </tr>
     <tr>
         <td align="center"><a href="https://www.oreilly.com/library/view/building-machine-learning/9781492045106/">Build ML Powerd Applications</a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://github.com/eriklindernoren/ML-From-Scratch/">Learning ML Algorithms from Scratch</a></td>
         <td align="center"><a href="https://www.youtube.com/@MLOps">MLOps.Community</a></td>
         <td align="center"><a href="https://feast.dev/">Feast</a></ td>
     </tr>
@@ -58,7 +58,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href=""></a></td>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href="https://www.youtube.com/c/AndrejKarpathy">Andrej Karpathy's Channel</a></td>
-        <td align="center"><a href="https://github.com/eriklindernoren/ML-From-Scratch/">Learning ML Algorithms from Scratch</a></td>
+        <td align="center"><a href=""></a></td>
     </tr>
 </table>
 
