@@ -45,13 +45,13 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
     <tr>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href=""></a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://www.youtube.com/@YannicKilcher">Yannic Kilcher's Channel</a></td>
         <td align="center"><a href="https://github.com/karpathy/nanoGPT">nanoGPT</a></td>
     </tr>
     <tr>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href=""></a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://www.youtube.com/@AladdinPersson/">Aladdin Persson's Channel</a></td>
         <td align="center"><a href="https://github.com/togethercomputer/RedPajama-Data">RedPajama: Data</a></td>
     </tr>
      <tr>
