@@ -58,7 +58,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href=""></a></td>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href="https://www.youtube.com/c/AndrejKarpathy">Andrej Karpathy's Channel</a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://id2223kth.github.io/assignments/project/ServerlessMLProjectsID22232023.html">Serverless ML Projects</a></td>
     </tr>
 </table>
 
