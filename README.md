@@ -38,7 +38,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
     </tr>
     <tr>
         <td align="center"><a href="https://hastie.su.domains/ISLP/ISLP_website.pdf">An Intro to Statistical Learning with Applications in Python</a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://github.com/d0r1h/ML-University">Open Source ML University</a></td>
         <td align="center"><a href="https://ml-ops.org/">ml-ops.org</a></td>
         <td align="center"><a href="https://github.com/ivanpanshin/flask_gunicorn_nginx_docker/tree/master">Flask+Gunicorn+Nginx</a></td>
     </tr>
