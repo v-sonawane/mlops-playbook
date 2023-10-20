@@ -64,7 +64,7 @@ ML in Production - Don't just train, let your model fulfill it's destiny!
         <td align="center"><a href=""></a></td>
         <td align="center"><a href=""></a></td>
         <td align="center"><a href="https://www.youtube.com/@TheAIEpiphany">Aleksa Gordić - The AI Epiphany</a></td>
-        <td align="center"><a href=""></a></td>
+        <td align="center"><a href="https://madewithml.com/">Made with ML</a></td>
     </tr>
 </table>
 
